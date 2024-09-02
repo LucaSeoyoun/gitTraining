@@ -8,3 +8,5 @@ def multiply(a, b):
   return a*b
 def divide(a, b):
   return a/b
+def random_premium(a, n):
+  return a
